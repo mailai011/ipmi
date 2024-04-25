@@ -1,3 +1,6 @@
+//Maia Laikow,Comision 2
+
+
 PImage fondo;
 void setup(){
   size(800,400);
