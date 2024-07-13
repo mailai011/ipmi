@@ -1,7 +1,7 @@
 //Maia Laikow 
 //Comision 2
 //Legajo:119062/7
-
+https://www.youtube.com/watch?v=kvJu3W48xOY
 PImage figura;
 float tam;
 int cant,cant2;
